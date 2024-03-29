@@ -1,0 +1,21 @@
+.country-item {
+  display: flex;
+  flex-direction: column;
+  background-color: #1f1f2f;
+  width: 100%;
+  max-width: 300px;
+}
+.country-image {
+  width: 100%;
+}
+.country-name-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.country-remove-btn {
+  border: 1px solid #cbd5e1;
+  color: #ffffff;
+  font-family: Roboto;
+  background-color: transparent;
+}
